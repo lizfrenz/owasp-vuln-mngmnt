@@ -18,12 +18,19 @@ OWASP Vulnerability Management Guide v.1
 1.2.5	Test your tool for integrity
 1.2.6	Adjust your tools settings, preferences, templates
 
-1.3	Confirm Findings
-1.3.1	Check if your test results have valuable data
-1.3.2	Interpret and reconcile system/device fingerprinting across your tests 
-1.3.3	Determine that running services  are what they are supposed to be
-1.3.4	Find something that falls out of the pattern and investigate why
-1.3.5	Randomly select vulnerabilities and confirm them with a different tool or manually
+1.3	Run Tests
+1.3.1	Scan public IP addresses
+1.3.2	Scan private subnets 
+1.3.3	Scan/test web applications
+1.3.4	Scan/test mobile apps
+1.3.5	Test Users (phishing, social engineering training)
+
+1.4	Confirm Findings
+1.4.1	Check if your test results have valuable data
+1.4.2	Interpret and reconcile system/device fingerprinting across your tests 
+1.4.3	Determine that running services  are what they are supposed to be
+1.4.4	Find something that falls out of the pattern and investigate why
+1.4.5	Randomly select vulnerabilities and confirm them with a different tool or manually
 
 2	Reporting Cycle
 
