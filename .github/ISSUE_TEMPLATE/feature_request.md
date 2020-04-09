@@ -1,20 +1,22 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest your idea for this project
 title: ''
 labels: ''
 assignees: ''
 
 ---
+**Can you implement OWASP Vulnerability Management Guide at your place of work or business?**
+Please state "yes" or "no' and explain why. E.g.: "not applicable", "I don't work in InfoSec", "too complicating". [...]
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is your feature request related to the OWASP VMG implementation? Please explain how.**
+A clear and concise explanation of what the problem your request solves. [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Please describe which of VMG cycles would host your addition? Detection, Reporting, Remediation.**
+A clear and concise description how what you suggest could be plugged into the existing doc. [...]
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+A clear and concise description why alternative would NOT work.[...]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Did you read the OWASP VMG? What are your thoughts**
+Your honest answer goes here.[...]
