@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug/typo or else is.
+A clear and concise description of the typo and where it appears.
 
-**How to improve?**
+**Suggest your fix**
 Your solution goes here.
